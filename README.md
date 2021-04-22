@@ -1,6 +1,6 @@
 # poke_flutter
 
-A new Flutter project.
+Simple Pokedex Application Built in Flutter
 
 ## Getting Started
 
